@@ -1,0 +1,7 @@
+*.csv
+/data
+*.DS_Store
+*.docx
+*.txt
+*.xlsx
+*.xls
